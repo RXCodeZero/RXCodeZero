@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhayvb&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay-117&theme=radical" />
 </p>
 
 ---
