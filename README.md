@@ -58,4 +58,4 @@
 
 ---
 
-> “Code with purpose. Create with passion. Share with impact.”
+> “Turning intelligence into impact — one line of code at a time.”
