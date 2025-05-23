@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhay V B
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=3366CC&lines=AI+%26+DS+Enthusiast;Developer+%7C;Passionate+%7C;Always+Learning+%7C+Final+Year+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=3366CC&lines=AI+%26+DS+Enthusiast;Developer;Passionate;Final+Year+Student" alt="Typing SVG" />
 </p>
 
 🎓 Final-year B.Tech student in **Artificial Intelligence & Data Science** at MITS, Kerala  
