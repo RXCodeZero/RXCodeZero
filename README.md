@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Final+Year%20AI+%26+DS%20Student-3E92CC?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITS,+Kerala-FFD93D?style=for-the-badge&logo=google-maps&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FinalYear%20AI%26DS%20Student-3E92CC?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITS,Kerala-FFD93D?style=for-the-badge&logo=google-maps&logoColor=black"/>
 </p>
 
 ---
