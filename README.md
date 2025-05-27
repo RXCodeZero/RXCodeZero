@@ -29,7 +29,7 @@
 ⚙️ Stack: `Python`, `OpenCV`, `Flutter`, `ESP32`, `YOLOv8`, `Text-to-Speech`
 
 ### 🔹 Movie Recommendation System  
-🎬 Personalized Indian movie recommendations based on user preferences  
+🎬 Personalized movie recommendations based on user preferences  
 ⚙️ Stack: `Python`, `SQLite`, `Streamlit`
 
 ---
