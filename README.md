@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Abhay V B
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=3366CC&lines=AI+%26+DS+Enthusiast;Developer;Passionate;Final+Year+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+%26+DS+Enthusiast" alt="Typing SVG 1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Creative+Developer" alt="Typing SVG 2"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FFD93D&center=true&vCenter=true&width=600&lines=Impact+Driven+Learner" alt="Typing SVG 3"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=3E92CC&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+Student+@+MITS" alt="Typing SVG 4"/>
 </p>
+
+
+
 
 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala
 🌱 Passionate about AI and Data Science, with a curiosity-driven mindset and a constant hunger to learn
