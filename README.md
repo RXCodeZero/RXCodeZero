@@ -17,11 +17,17 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍🎓 Final-year B.Tech in Artificial Intelligence & Data Science  
-- ⚙️ Building **creative, human-first AI systems**  
-- 💡 Researching the boundary of **machine learning** and real-world impact  
-- 🧠 Exploring Deep Learning • Computer Vision • Assistive Tech  
-- 🌍 Tech that **makes life better** — that’s my drive  
+🧑‍🎓 Final-year B.Tech in Artificial Intelligence & Data Science
+
+🌐 Currently building websites with HTML & CSS, and exploring JavaScript & full-stack development
+
+🚀 Eager to explore creative, human-first AI systems in the near future
+
+💡 Passionate about connecting machine learning with real-world impact
+
+🧠 Interests: Deep Learning • Computer Vision • Assistive Tech
+
+🌍 Driven by the idea of using tech to genuinely improve lives
 
 ---
 
