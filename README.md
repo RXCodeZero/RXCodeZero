@@ -91,7 +91,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay-117&theme=onedark&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RXCodeZero&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
