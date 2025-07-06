@@ -82,8 +82,8 @@
 ### 📊 My GitHub Flow
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-117&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhay-117&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RXCodeZero&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RXCodeZero&theme=tokyonight" />
 </p>
 
 ---
