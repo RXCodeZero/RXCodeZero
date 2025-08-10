@@ -79,14 +79,23 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Movie Recommender 🎬</h3>
-<!--        <a href="[LINK_TO_MOVIE_REPO]">
-        <img src="[LINK_TO_YOUR_MOVIE_APP_SCREENSHOT]" alt="Movie Recommender Screenshot" width="100%"/>
-      </a> -->
-      <p>A dive into data science fundamentals, this app uses content-based filtering to provide personalized movie recommendations through an interactive web interface powered by Streamlit.</p>
-      <p align="center">
-        <a href="[LINK_TO_MOVIE_REPO]"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
+      <h3>A.R.C.A.S. 🎬</h3>
+<a href="https://github.com/RXCodeZero/A.R.C.A.S-AI_Chat_Interface">
+  <img src="https://github.com/user-attachments/assets/ff91425a-fbe3-44a4-a52f-51c7b95460c2" alt="A.R.C.A.S. Chat Application Screenshot" width="100%"/>
+</a>
+<p>
+  <b>A.R.C.A.S. (Autonomous Real-time Chat & Analysis System)</b> is a real-time chat application built with React, Express, and WebSocket that leverages Google's Gemini API for natural language responses. It features smooth, real-time typing animations for an engaging user experience.
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket"/>
+    <img src="https://img.shields.io/badge/Gemini_API-8E77F3?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API"/>
+</p>
+<p align="center">
+    <a href="https://github.com/RXCodeZero/A.R.C.A.S-AI_Chat_Interface"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+</p>
     </td>
   </tr>
 </table>
