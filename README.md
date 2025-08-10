@@ -13,7 +13,7 @@
 ---
 
 ## 💡 Quick Snapshot
-**Full-Stack Developer | AI Enthusiast **  
+**Full-Stack Developer | AI Enthusiast**
 - 🌐 MERN Stack | 🤖 Deep Learning | ⚡ Real-time Web Apps  
 - 🎓 Final-year B.Tech Student | 💬 Always curious to learn  
 - 🚀 Building intelligent, accessible, and future-ready web experiences  
