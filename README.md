@@ -67,7 +67,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>A.R.C.A.S. 🤖</h3>
+      <h3>A.R.C.A.S. (Autonomous Real-time Chat & Analysis System) 🤖</h3>
       <p>Real-time AI chat app powered by Google Gemini API, built with React + WebSocket for smooth interactions.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
