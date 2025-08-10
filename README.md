@@ -166,6 +166,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RXCodeZero&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RXCodeZero/RXCodeZero/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RXCodeZero/RXCodeZero/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RXCodeZero/RXCodeZero/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nastyox/nastyox/main/assets/images/rainbow-hr.gif" width="100%">
 </p>
